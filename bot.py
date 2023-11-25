@@ -10,7 +10,7 @@ from aiogram.filters import Command, CommandStart
 
 
 
-TOKEN = "6755588173:AAFtTanT5tjHCMD--5cC4fmyz6X6btw4nuY"
+TOKEN = "your token"
 
 dp = Dispatcher()
 
